@@ -19,7 +19,7 @@ Analysis:
 
 Team:
 
-Noopur Agarwal
-Ganeshkumar
-Nithya G
+Noopur Agarwal,
+Ganeshkumar,
+Nithya G,
 Ravi Teja
