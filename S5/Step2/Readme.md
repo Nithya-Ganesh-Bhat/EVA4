@@ -12,3 +12,10 @@ Results:
 3. Best Test Accuracy: 98.63
 
 Analysis: Getting parameters in range but we need to improve accuracy.
+
+Team:
+
+Noopur Agarwal,
+Ganeshkumar,
+Nithya G,
+Ravi Teja
