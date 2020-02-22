@@ -2,7 +2,8 @@ Target:
 
 1. To reduce overfitting.
 2. Reduce gap between train and test accuracy
-3. Changes Made : Added Batch normalization and dropout
+
+Changes Made : Added Batch normalization and dropout
 
 Result :
 
