@@ -16,3 +16,10 @@ Analysis :
 1. Good Model
 2. No overfitting, model is capable if pushed further
 3. Still need to improve accuracy
+
+Team:
+
+Noopur Agarwal,
+Ganeshkumar,
+Nithya G,
+Ravi Teja
