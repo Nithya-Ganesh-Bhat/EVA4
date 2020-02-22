@@ -16,3 +16,10 @@ Analysis:
 
 1. Extremely Heavy Model for such a problem
 2. Model is over-fitting, but we are changing our model in the next step
+
+Team:
+
+Noopur Agarwal
+Ganeshkumar
+Nithya G
+Ravi Teja
