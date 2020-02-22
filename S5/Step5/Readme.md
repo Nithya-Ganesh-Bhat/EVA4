@@ -18,3 +18,10 @@ Analysis :
 
 1. After 8th Epoch accuracy is contantly above 99.3
 2. At 12th epoch it reached 99.4
+
+Team:
+
+Noopur Agarwal,
+Ganeshkumar,
+Nithya G,
+Ravi Teja
