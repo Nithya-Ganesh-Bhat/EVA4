@@ -1,4 +1,4 @@
-URL for Misclassified image for L1: 
+URL for Misclassified image for L1: https://github.com/Nithya-Ganesh-Bhat/EVA4/blob/master/S6/L1.jpg
 
 URL for Misclassified image for L2: 
 
