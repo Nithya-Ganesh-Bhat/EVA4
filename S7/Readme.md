@@ -8,5 +8,5 @@ This model implemented the first use of CIFAR. Here we have used all the concept
 6. Training and testing function
 7. Accuracy Functions
 
-Top Accuracy = 82.31% (14th Epoch) 
+Top Accuracy = 82.50% (13th Epoch) 
 We have reached Receptive Field of 60 which is shown in the Model.py file as comments.
