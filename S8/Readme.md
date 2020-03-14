@@ -2,12 +2,9 @@ This is resnet model implemented on cifar dataset.
 
 Data Augmentations used = {Random Crop, Random Horizontal Flip, To Tensor, Normalize}
 
-  1. Optimizer = SGD
-  
-  2. LR = 0.001
-  
-  3. Momentum = 0.95
-  
+  1. Optimizer = SGD  
+  2. LR = 0.001  
+  3. Momentum = 0.95  
   4. Weight decay = 0.0004
   5. Scheduler = OneCycleLR
   6. Max LR = 0.1
