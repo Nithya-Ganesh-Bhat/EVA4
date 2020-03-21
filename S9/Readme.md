@@ -1,5 +1,5 @@
-Implemented Albumentation and GradCam
+Albumentation
 
 Accurcay
 
-91.3% in 20th Epoch
+91.39% in 19th Epoch
